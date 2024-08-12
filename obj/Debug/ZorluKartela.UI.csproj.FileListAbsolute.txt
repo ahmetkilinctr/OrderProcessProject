@@ -1,0 +1,28 @@
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.KullaniciGiris.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Magaza_MainForm.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Magaza.SevkiyatListesi_ForShop.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Magaza.IadeGerekçesi.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Tedarikci.Tedarikci_IadeBilgisi.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.SiparisListesi_ForZorlu.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.SiparisListesi_ForSupplier.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Tedarikci_MainForm.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Tedarikci.Tedarikci_Sevkiyat_Olusturma.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Zorlu.Zorlu_IadeBilgisi.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Zorlu_MainForm.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Tedarikci_TopluSevkiyatYukleme.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Zorlu_KartelaListesi.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Zorlu_MagazaYonetimi.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Zorlu_SiparisOlustur.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Zorlu_TedarikciYonetimi.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Zorlu_TopluSiparisYukleme.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.UI.csproj.GenerateResource.Cache
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/bin/Debug/ZorluKartela.exe.config
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/bin/Debug/ZorluKartela.exe
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/bin/Debug/ZorluKartela.pdb
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.Properties.Resources.resources
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.exe
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.pdb
+C:/Users/ahmetk/Documents/Visual Studio 2015/Projects/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.UI.csprojResolveAssemblyReference.cache
+/Users/ahmetkilinc/Desktop/Eski Projeler/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.UI.csproj.AssemblyReference.cache
+/Users/ahmetkilinc/Desktop/Eski Projeler/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.exe
+/Users/ahmetkilinc/Desktop/Eski Projeler/KullaniciGiris/KullaniciGiris/obj/Debug/ZorluKartela.pdb
